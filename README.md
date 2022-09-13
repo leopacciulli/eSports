@@ -11,13 +11,16 @@
 
 <br>
 
+### Project
+Developing a complete application with back-end using NodeJS, front-end web using ReactJS and mobile using React Native.
+
 ### Figma
 Here you can see the project for web and mobile, the state components, and all the styles like fonts, colors, icons, etc: https://www.figma.com/community/file/1150897317533332617
 
 <br>
 
 ### Tools
-ReactJS, React Native, NodeJS, Express, TypeScript, Tailwind-css
+ReactJS, React Native (Expo), NodeJS, Express, TypeScript, Tailwind-css
 
 <br>
 
