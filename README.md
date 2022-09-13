@@ -17,7 +17,7 @@ Here you can see the project for web and mobile, the state components, and all t
 <br>
 
 ### Tools
-ReactJS, React Native, NodeJS, Express, TypeScript
+ReactJS, React Native, NodeJS, Express, TypeScript, Tailwind-css
 
 <br>
 
