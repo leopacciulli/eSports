@@ -20,7 +20,7 @@ Here you can see the project for web and mobile, the state components, and all t
 <br>
 
 ### Tools
-ReactJS, React Native (Expo), NodeJS, Express, TypeScript, Tailwind-css, Prisma.io (ORM)
+ReactJS, React Native (Expo), NodeJS, Express, TypeScript, Tailwind-css, Prisma.io (ORM), Radix UI
 
 <br>
 
