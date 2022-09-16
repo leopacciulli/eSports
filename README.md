@@ -1,12 +1,12 @@
 <h1 align="center">
 <br>
-💻 In Development 💻
+💻 eSports 💻
 </h1>
 
 <br>
 
 <div align="center">
-<img src="./mobile/assets/esp.png" width="500">
+<img src="./mobile/assets/icon.png" width="500">
 </div>
 
 <br>
